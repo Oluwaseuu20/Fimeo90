@@ -1,0 +1,54 @@
+/* Add all your styles here */
+h1{
+  color: green;
+  padding: left;
+  text-align: center;
+  font-size: 60px;
+}
+body{
+  background-color: white;
+  padding: 10px;
+}
+p{
+ color : green;
+ font-size: 25px;
+ font-family: serif;
+}
+#data2{
+  background-color: green;
+  font-size: 20px;
+  border: 20px solid  White;
+  color: white;
+  padding: 70px ;
+  line-height: 50px;
+  display: 
+  border-radius: 2px;
+}
+button{
+   background-color: rgb(50%,40%,90%);
+   line-height: 15px;
+   padding: 20px;
+  color: white 
+  border-radius: 10px;
+  margin: 10px;
+  border-buttom: 60px;
+  font-family: serif;
+  padding-right: 25px;
+}
+h2{
+ color: green;
+ text-align: center;
+ padding: 10px;
+ font-style: oblique;
+ font-family: sans-serif;
+ font-size: 60px;
+}
+.bye{
+ color: purple;
+ border: 5px solid green;
+ display: inline-block;
+ border-radius: 5px;
+ font-size: 20px;
+ background-color: green;
+ margin: 1px;
+ padding: 10px;
